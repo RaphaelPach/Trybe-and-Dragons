@@ -1,4 +1,4 @@
-import Energy from './Energy';
+import Energy from '../Energy';
 
 export default interface Fighter {
   lifePoints: number;
