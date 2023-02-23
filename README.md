@@ -74,7 +74,7 @@ Obs: você pode aumentar o nível dos personagens antes da batalha usando o mét
 const batalhaPve = new PVE(personagem1, [personagem2, monster, dragon]);
 console.log(batalhaPve.fight()); // 1 ou -
 ```
-
+Criado por **Trybe** e desenvolvido por **Raphael Pacheco** https://www.linkedin.com/in/raphael-pacheco-597464229/
 
 
 
