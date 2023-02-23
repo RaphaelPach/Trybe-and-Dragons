@@ -13,7 +13,7 @@ Este projeto teve a utilização das seguintes tecnologis em seu desenvolvimento
 Como usar
 Para a utilização do repositório no desenvolvimento foi configurado um Docker compose
 Clone o repositório
-git clone https://github.com/RaphaelPach
+git clone git@github.com:RaphaelPach/DugeonProject.git
 
 Instale as dependências
 npm install
