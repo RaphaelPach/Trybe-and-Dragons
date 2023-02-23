@@ -13,7 +13,7 @@ Este projeto teve a utilização das seguintes tecnologis em seu desenvolvimento
 Como usar
 Para a utilização do repositório no desenvolvimento foi configurado um Docker compose
 Clone o repositório
-git clone https://github.com/joaovictorschiavon/trybers-and-dragons.git
+git clone https://github.com/RaphaelPach
 
 Instale as dependências
 npm install
