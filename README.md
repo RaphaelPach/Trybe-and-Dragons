@@ -10,8 +10,10 @@ Este projeto teve a utilização das seguintes tecnologis em seu desenvolvimento
 -SOLID para arquitetura e organização do código realizado em paradigma POO.
 -Node.js para execução de testes e instalação de packages de bibliotecas.
 -Typescript para tipagem da linguagem.
+
 Como usar
 Para a utilização do repositório no desenvolvimento foi configurado um Docker compose
+
 Clone o repositório
 git clone git@github.com:RaphaelPach/DugeonProject.git
 
